@@ -16,8 +16,8 @@ class MainActivity : AppCompatActivity() {
             view.imageView.setImageResource(R.drawable.banana)
         }
         button2.setOnClickListener{
-            view.output1.text = "다혜"
-            view.output2.text = "1004"
+            view.output1.text = "꾸꾸"
+            view.output2.text = "119"
             view.imageView.setImageResource(R.drawable.ic_launcher_foreground)
         }
     }
