@@ -15,5 +15,10 @@ class MainActivity : AppCompatActivity() {
             view.output2.text = "010-0000-0000"
             view.imageView.setImageResource(R.drawable.banana)
         }
+        button2.setOnClickListener{
+            view.output1.text = "다혜"
+            view.output2.text = "1004"
+            view.imageView.setImageResource(R.drawable.ic_launcher_foreground)
+        }
     }
 }
