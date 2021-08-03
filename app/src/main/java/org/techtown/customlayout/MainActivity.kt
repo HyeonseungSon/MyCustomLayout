@@ -36,6 +36,6 @@ class MainActivity : AppCompatActivity() {
             textView4.text = "천천천"
             imageView4.setImageResource(R.drawable.pizza)
         }
-        // 깃허브를 테스트합니다. 222
+        // 깃허브 테스트 세번째
     }
 }
